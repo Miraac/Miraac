@@ -1,5 +1,6 @@
 # Presentation
-🌳 Hello there! I'm Michal, a passionate programmer on a journey that started in 2020. I'm specialized in Python and Data Engineering.
+🌳 Hello there! I'm Michal, a passionate programmer on a journey that started in 2020. I'm specialized in GIS, Python and Data Engineering.
+Geiranger tourist trails mobile app: https://geiranger-trails-appv.michal-dw9.workers.dev/ 
 
 🐍 Embracing Python gradually became my forte, alongside encounters with C and SQL during my studies. I honed my skills in spatial data processing, algorithm creation, and relational database theory. 
 
