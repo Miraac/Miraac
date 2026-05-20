@@ -5,7 +5,7 @@
 ### **🎓Education**
 * MSc. Forestry/Geoinformatics since 2022.  
 * Postdiploma studies: Data Engineering - Big Data  
-### **📚Courses:**  
+### **📚Courses**  
 * Java Programming I - University of Helsinki  
 * AWS Certified Cloud Practitioner - Udemy, Rafał Mobilo  
 * Data Science: Analiza danych w Python i Pandas - Udemy, Rafał Mobilo  
@@ -15,7 +15,7 @@
 * Apache Airflow: The Hands-On Guide - Udemy, Marc Lamberti (not finished)  
 * Scrum and Agile Basics - Theory, Practice, Certification - Udemy, Jarosław Łojko  
 * MOOC Cartography - Esri  
-### **🛠️Technologies & Skills:**  
+### **🛠️Tech Stack**  
 * Python
 * Pandas
 * SQL
@@ -27,13 +27,16 @@
 * Spark / PySpark
 * Docker / GitHub
 * Basics Java, R, JavaScript (VueJS), C, C++  
-### **Applications using ArcGIS Online Platform:**
-* Webpage with postdiploma project results and presentation: https://experience.arcgis.com/experience/77eb0c0a9d0e4673a8be15ec6cdbd484
-* Geirangerfjord Tourist Trials Mobile App: https://geiranger-trails-appv.michal-dw9.workers.dev/
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![GIS](https://img.shields.io/badge/GIS-008000)
+## 🌟 Featured Projects
+
+### 🗺️ Geirangerfjord Tourist Trails App
+A mobile app for exploring tourist trails in Geirangerfjord.  
+🔗 https://geiranger-trails-appv.michal-dw9.workers.dev
+
+### 🌍 Forestry & ML Analysis (Postgraduate Project)
+Spatial analysis + ML predicting conifer share in RDLP Katowice.  
+🔗 https://experience.arcgis.com/experience/77eb0c0a9d0e4673a8be15ec6cdbd484
 
     
 # Presentation
