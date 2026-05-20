@@ -1,21 +1,21 @@
 # Overview
-Michał Mandziuk
-GIS and Data Engineer
-Location: Poland/Europe
-Education:
-* MSc. Forestry/Geoinformatics since 2022.
-* Postdiploma studies: Data Engineering - Big Data
-Courses:
-* Java Programming I - University of Helsinki
-* AWS Certified Cloud Practitioner - Udemy, Rafał Mobilo
-* Data Science: Analiza danych w Python i Pandas - Udemy, Rafał Mobilo
-* Spark & PySpark - Udemy, Rafał Mobilo
-* Machine learning in Python - Udemy, Rafał Mobilo
-* 100 Days of Code: The Complete Python Course - Udemy, Angela Yu (not finished)
-* Apache Airflow: The Hands-On Guide - Udemy, Marc Lamberti (not finished)
-* Scrum and Agile Basics - Theory, Practice, Certification - Udemy, Jarosław Łojko
-* MOOC Cartography - Esri
-Technologies & Skills:
+Michał Mandziuk  
+GIS and Data Engineer  
+Location: Poland/Europe  
+Education:  
+* MSc. Forestry/Geoinformatics since 2022.  
+* Postdiploma studies: Data Engineering - Big Data  
+Courses:  
+* Java Programming I - University of Helsinki  
+* AWS Certified Cloud Practitioner - Udemy, Rafał Mobilo  
+* Data Science: Analiza danych w Python i Pandas - Udemy, Rafał Mobilo  
+* Spark & PySpark - Udemy, Rafał Mobilo  
+* Machine learning in Python - Udemy, Rafał Mobilo  
+* 100 Days of Code: The Complete Python Course - Udemy, Angela Yu (not finished)  
+* Apache Airflow: The Hands-On Guide - Udemy, Marc Lamberti (not finished)  
+* Scrum and Agile Basics - Theory, Practice, Certification - Udemy, Jarosław Łojko  
+* MOOC Cartography - Esri  
+Technologies & Skills:  
 * Python
 * Pandas
 * SQL
@@ -26,7 +26,7 @@ Technologies & Skills:
 * Snowflake
 * Spark / PySpark
 * Docker / GitHub
-* Basics Java, R, JavaScript (VueJS), C, C++
+* Basics Java, R, JavaScript (VueJS), C, C++  
 Applications:
 * Webpage on ArcGIS Online Platform: https://experience.arcgis.com/experience/77eb0c0a9d0e4673a8be15ec6cdbd484
 * Geirangerfjord Tourist Trials Mobile App: https://geiranger-trails-appv.michal-dw9.workers.dev/
