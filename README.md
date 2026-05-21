@@ -1,55 +1,59 @@
 # Overview
-### **Michał Mandziuk**  
-### **GIS and Data Engineer**  
-### **Location:** Poland/Europe  
-### **🎓Education**
+### **Michał Mandziuk**
+### **GIS, Data Engineer & AI Engineer**
+### **Location:** Poland/Europe
+## 🎓 Education
 * MSc. Forestry/Geoinformatics since 2022.  
-* Postdiploma studies: Data Engineering - Big Data  
-### **📚Courses**  
-* Java Programming I - University of Helsinki  
-* AWS Certified Cloud Practitioner - Udemy, Rafał Mobilo  
-* Data Science: Analiza danych w Python i Pandas - Udemy, Rafał Mobilo  
-* Spark & PySpark - Udemy, Rafał Mobilo  
-* Machine learning in Python - Udemy, Rafał Mobilo  
-* 100 Days of Code: The Complete Python Course - Udemy, Angela Yu (not finished)  
-* Apache Airflow: The Hands-On Guide - Udemy, Marc Lamberti (not finished)  
-* Scrum and Agile Basics - Theory, Practice, Certification - Udemy, Jarosław Łojko  
-* MOOC Cartography - Esri  
-### **🛠️Tech Stack**  
-* Python
-* Pandas
-* SQL
-* ArcGIS/ ArcGIS Online
-* AI/ Machine Learning
-* AWS Cloud
-* Databricks
-* Snowflake
-* Spark / PySpark
-* Docker / GitHub
-* Basics Java, R, JavaScript (VueJS), C, C++  
+* Postdiploma studies: Data Engineering - Big Data
+
+## 📚 Courses
+### 📘 Programming
+- Java Programming I – University of Helsinki
+- 100 Days of Code – Angela Yu (in progress)
+### ☁️ Cloud & Big Data
+- AWS Cloud Practitioner – Rafał Mobilo
+- Spark & PySpark – Rafał Mobilo
+- Apache Airflow – Marc Lamberti (in progress)
+### 🤖 Data Science & ML
+- Machine Learning in Python – Rafał Mobilo
+- Data Science: Pandas – Rafał Mobilo
+### 🗺️ GIS
+- MOOC Cartography – Esri
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, Java (basics), R (basics), JavaScript (Vue), C/C++  
+**Data:** Pandas, PySpark, Databricks, Snowflake  
+**GIS:** ArcGIS Pro, ArcGIS Online  
+**Cloud:** AWS  
+**Tools:** Docker, GitHub, Airflow  
 
 ## 🌟 Featured Projects
 
 ### 🗺️ Geirangerfjord Tourist Trails App
 A mobile app for exploring tourist trails in Geirangerfjord.  
+Built with ArcGIS Pro, Experience Builder Developer Edition and JavaScript  
 🔗 https://geiranger-trails-appv.michal-dw9.workers.dev
 
 ### 🌍 Forestry & ML Analysis (Postgraduate Project)
 Spatial analysis + ML predicting conifer share in RDLP Katowice.  
+Description and results of project. Built using ArcGIS Pro and Experience Builder
 🔗 https://experience.arcgis.com/experience/77eb0c0a9d0e4673a8be15ec6cdbd484
 
     
-# Presentation
-🌳 Hello there! I'm Michal, a passionate programmer on a journey that started in 2020. I'm specialized in GIS, Python and Data Engineering.
+## 🌳 About Me
 
-🐍 Embracing Python gradually became my forte, alongside encounters with C and SQL during my studies. I honed my skills in spatial data processing, algorithm creation, and relational database theory. 
+I'm Michał — GIS & Data Engineer passionate about Python, spatial data, and cloud technologies.
 
-🚀 Post-graduation, I soared into the IT realm at Jacobs Engineering Group as a GIS Specialist. Recognized for advanced programming skills, I joined a U.S. startup. There, I contributed to a web app displaying infrastructure status in major U.S. cities and assessing natural threats to ongoing projects. Now I'm during postgraduate studies in Data Engineering - Big Data.
+I started programming in 2020 and since then worked with:
+- GIS automation (ArcGIS, arcpy)
+- Data engineering tools (PySpark, Databricks, Snowflake, Airflow)
+- Spatial analysis & ML models
 
-🔧 My role involved preparing spatial data and crafting automation tools using ArcGIS toolboxes, Python scripts, and arcpy library. I'm experienced in using PySpark and Pandas. Now I'm continue broading my skills in Apache Airflow, DataBricks and Snowflake ❄️. 
+I previously worked at Jacobs Engineering Group, Taxus IT, and Cognizant Technologies
 
-💼 Delegated to diverse projects, I created Python scripts and tools, enhancing internal workflows. Presently, I'm diving deep into topics to kickstart my career as a full-fledged data engineer, actively seeking knowledge and guidance.
+In my free time I enjoy drones, 3D modeling, cycling and traveling.
 
-🚲 I really like drones and creating 3D models. I can use photogrammetry to generate the initial model and then refine it and add new elements to achieve impressive results. In my free time, I enjoy traveling on my bike, exploring new countries, and learning how to perform a fireshow with my firestaff 🔥
 
-📚 Always eager to learn, I'm on the lookout for insights on what to master next. Let's connect, collaborate, and code together!
+## 🤝 Let's Connect
+💼 LinkedIn: https://www.linkedin.com/in/michal-mandziuk/  
+📧 Email: mmandziuk.gis@gmail.com / mm.gedata@gmail.com  
